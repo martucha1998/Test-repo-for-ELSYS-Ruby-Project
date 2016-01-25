@@ -1,0 +1,6 @@
+date,account,category,amount,currency,description
+01/12/2013,PersonalCash,K-,201,BGN,Hello
+03/12/2013,PersonalCash,L-,500,GBP,!!!
+14/11/2016,PersonalCash,V-,199,EUR,World
+14/11/2016,NoCash,D-,0,USD,sad face
+01/12/2013,HelloCash,M-,199,CNY,chinese food
